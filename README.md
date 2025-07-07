@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**misiek02/misiek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michał Suski — a master's student at Politechnika Wrocławska with a focus on robotics, AI, embedded systems, and software development. I enjoy combining theoretical models with practical implementations in simulation and real-world environments.
 
-Here are some ideas to get you started:
+### 🔬 Current Interests
+- 🔄 Simultaneous Localization and Mapping (SLAM) in simulation (Gazebo, ROS2)
+- 🧠 Artificial Neural Networks & Deep Learning (YOLOv11, TorchScript)
+- 🤖 Autonomous mobile robots (TurtleBot3, Raspberry Pi Pico W, FreeRTOS)
+- 🛜 Embedded programming and real-time systems
+- 🛠️ Tools: Python, C++, Qt, pgmpy, libpointmatcher, YOLO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Recent Work
+
+
+### 📫 Contact
+- Email: [michalsuski02@gmail.com](mailto:michalsuski02@gmail.com)
+- GitHub: [@misiek02](https://github.com/misiek02)
+
+### ⚙️ Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiek02&layout=compact&theme=default)
+
+---
