@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## 📞 Connect
+## 📞 Contact
 
 <p align="center">
   <a href="mailto:michalsuski02@gmail.com">
