@@ -29,4 +29,4 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 
-<p align="center"> <a href="https://misiek02.github.io/link/" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Odwiedź-moją_stronę-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=2ea44f" alt="Links"/> </a> </p>
+<p align="center"> <a href="https://misiek02.github.io/link/" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Links-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=2ea44f" alt="Links"/> </a> </p>
