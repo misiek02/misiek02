@@ -55,7 +55,7 @@ Master's thesis project on multi-object tracking of airborne objects (UAVs) in i
 Engineering thesis project comparing point-cloud scan-matching algorithms — **ICP**, **TEASER++**, and **NDT** — for laser-scanner-based robot localization. Built and tested in a ROS 2 / Gazebo simulation environment using a TurtleBot3 robot equipped with 2D and 3D LiDAR sensors.
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CPlusPlus/c++1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg)
 
 <!-- Projects Section -->
